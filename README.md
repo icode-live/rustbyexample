@@ -1,2 +1,2 @@
 # rustbyexample
-coding activity for [rustbyexample](http://rustbyexample.com/)
+Coding activities for [rustbyexample](http://rustbyexample.com/)
